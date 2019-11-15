@@ -1,3 +1,4 @@
 # projet_apps_bonjour_algo
 algo programme bonjour
-25/10/2019
+exercice  Algo Lire; Ecrire; Condition
+15/11/2019
